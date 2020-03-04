@@ -5,7 +5,7 @@ Coding practice in vanilla javascrpt from Udemy course "20 Web Proejcts with Van
 ### 20 web project in vanilla JS
 - [x] 01: Form Validator | string, regular expression
 - [x] 02: Movie Seat Booking | DOM & local storage
-- [ ] 03: Custom Video Player | html5 video api
+- [x] 03: Custom Video Player | html5 video api
 - [ ] 04: Exchange Rate Calculator | fetch & json 
 - [ ] 05: DOM Array Methods | forEach, map, filter, sort, reduce
 - [ ] 06: Menu Slider & Medal | DOM & CSS
