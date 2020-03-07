@@ -7,7 +7,7 @@ Coding practice in vanilla javascrpt from Udemy course "20 Web Proejcts with Van
 - [x] 02: Movie Seat Booking | DOM & local storage
 - [x] 03: Custom Video Player | html5 video api
 - [x] 04: Exchange Rate Calculator | fetch & json 
-- [ ] 05: DOM Array Methods | forEach, map, filter, sort, reduce
+- [X] 05: DOM Array Methods | forEach, map, filter, sort, reduce
 - [ ] 06: Menu Slider & Medal | DOM & CSS
 - [ ] 07: Hangman Game | DOM, SVG, events
 - [ ] 08: Meal Finder | fetch & mealDB api
